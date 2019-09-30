@@ -1,0 +1,55 @@
+_repo: Agriculture-of-the-Hidatsa-Indians-An-Indian-Interpretation_60313
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Jenks, Albert Ernest
+    birthdate: &id001 1869
+    deathdate: 1953
+    gutenberg_agent_id: '1163'
+    url: http://www.gutenberg.org/2009/agents/1163
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Jenks
+  contributor:
+    agent_name: Goodbird, Edward
+    birthdate: *id001
+    gutenberg_agent_id: '48794'
+    url: http://www.gutenberg.org/2009/agents/48794
+creator:
+  authors:
+  - agent_name: Wilson, Gilbert Livingstone
+    alias: Wilson, Gilbert Livingston
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '48795'
+    url: http://www.gutenberg.org/2009/agents/48795
+    wikipedia: https://en.wikipedia.org/wiki/Gilbert_Livingston_Wilson
+  - agent_name: Waheenee
+    aliases:
+    - Maxidiwiac
+    - Buffalobird-woman
+    - Maxidiwiac, Hidatsa Indian
+    - Buffalo Bird Woman
+    - Maaxiiriwia
+    deathdate: 1932
+    gutenberg_agent_id: '50892'
+    url: http://www.gutenberg.org/2009/agents/50892
+    wikipedia: https://en.wikipedia.org/wiki/Buffalo_Bird_Woman
+description: ''
+gutenberg_issued: '2019-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60313'
+  lccn: '17027877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waheenee, 1839?-1932'
+- !lcsh 'Hidatsa Indians'
+- !lcsh 'Hidatsa Indians -- Agriculture'
+- !lcsh 'Indians of North America -- Agriculture'
+- !lcsh 'Goodbird, Edward, 1869-'
+- !lcc 'E011'
+- GITenberg
+title: 'Agriculture of the Hidatsa Indians: An Indian Interpretation'
+url: http://www.gutenberg.org/ebooks/60313
