@@ -1,18 +1,21 @@
 _repo: Agriculture-of-the-Hidatsa-Indians-An-Indian-Interpretation_60313
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Jenks, Albert Ernest
-    birthdate: &id001 1869
+    birthdate: 1869
     deathdate: 1953
     gutenberg_agent_id: '1163'
     url: http://www.gutenberg.org/2009/agents/1163
     wikipedia: https://en.wikipedia.org/wiki/Albert_Jenks
   contributor:
     agent_name: Goodbird, Edward
-    birthdate: *id001
+    birthdate: 1869
     gutenberg_agent_id: '48794'
     url: http://www.gutenberg.org/2009/agents/48794
+covers:
+- cover_type: archival
+  image_path: 60313-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wilson, Gilbert Livingstone
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50892
     wikipedia: https://en.wikipedia.org/wiki/Buffalo_Bird_Woman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60313#Agriculture-of-the-Hidatsa-Indians-An-Indian-Interpretation
 gutenberg_issued: '2019-09-17'
 gutenberg_type: Text
 identifiers:
